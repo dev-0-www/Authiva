@@ -83,7 +83,4 @@ Start the server and configure Authiva.
 * [GitHub](https://github.com/www0abdb-oss/Authiva)
 * [Issues](https://github.com/www0abdb-oss/Authiva/issues)
 
-## License
-Apache 2.0
-
 Apache 2.0
