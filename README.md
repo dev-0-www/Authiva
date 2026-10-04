@@ -60,7 +60,8 @@ No client-side mod is required.
 ```
 
 ## Compatibility
-
+<div align="center">
+  
 | Platform       | Support   |
 | -------------- | --------- |
 | purpur         | Supported |
@@ -69,7 +70,7 @@ No client-side mod is required.
 | Bukkit         | Supported |
 | Minecraft 26.2 | Supported |
 | Minecraft 26.3 | Partial   |
-
+</div>
 ## Installation
 
 Download Authiva and place the `.jar` file into your server's `plugins` folder.
